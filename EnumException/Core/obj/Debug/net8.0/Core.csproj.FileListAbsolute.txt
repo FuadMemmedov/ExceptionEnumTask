@@ -9,3 +9,15 @@ C:\Users\memme\source\repos\EnumException\Core\obj\Debug\net8.0\Core.dll
 C:\Users\memme\source\repos\EnumException\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\memme\source\repos\EnumException\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\memme\source\repos\EnumException\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\bin\Debug\net8.0\Core.dll
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.dll
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\memme\Desktop\ExceptionEnumTask\EnumException\Core\obj\Debug\net8.0\ref\Core.dll

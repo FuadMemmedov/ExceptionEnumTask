@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memme\\source\\repos\\EnumException\\EnumException\\EnumException.csproj",
+      "projectUniqueName": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\EnumException\\EnumException.csproj",
       "projectName": "EnumException",
-      "projectPath": "C:\\Users\\memme\\source\\repos\\EnumException\\EnumException\\EnumException.csproj",
+      "projectPath": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\EnumException\\EnumException.csproj",
       "packagesPath": "C:\\Users\\memme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memme\\source\\repos\\EnumException\\EnumException\\obj\\",
+      "outputPath": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\EnumException\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\memme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Core.csproj"
+            "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Core.csproj"
             }
           }
         }

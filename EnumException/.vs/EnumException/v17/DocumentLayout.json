@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\EnumException\\",
+  "WorkspaceRootPath": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\EnumException\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7908AD48-371D-4818-B451-5D08F61EBA4F}|EnumException\\EnumException.csproj|C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\enumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7908AD48-371D-4818-B451-5D08F61EBA4F}|EnumException\\EnumException.csproj|solutionrelative:enumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\EnumException\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|c:\\users\\memme\\desktop\\exceptionenumtask\\enumexception\\core\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\enumexception\\core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|c:\\users\\memme\\desktop\\exceptionenumtask\\enumexception\\core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7908AD48-371D-4818-B451-5D08F61EBA4F}|EnumException\\EnumException.csproj|C:\\Users\\memme\\source\\repos\\EnumException\\enumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7908AD48-371D-4818-B451-5D08F61EBA4F}|EnumException\\EnumException.csproj|solutionrelative:enumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26315A6-AC8E-4326-A98A-595DDECAFBA9}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ClassRoom.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Models\\ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Models\\ClassRoom.cs",
               "RelativeDocumentMoniker": "Core\\Models\\ClassRoom.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Models\\ClassRoom.cs",
               "RelativeToolTip": "Core\\Models\\ClassRoom.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAEsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T10:46:02.845Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Helper.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Helper.cs",
               "RelativeDocumentMoniker": "Core\\Helper.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Helper.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Helper.cs",
               "RelativeToolTip": "Core\\Helper.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAkwIQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T10:48:35.497Z",
               "IsPinned": true,
@@ -58,15 +61,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\EnumException\\Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Models\\Student.cs",
               "RelativeToolTip": "Core\\Models\\Student.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBUAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T10:45:29.221Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Enums\\Menu.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\Menu.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\Core\\Enums\\Menu.cs",
+              "RelativeToolTip": "Core\\Enums\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:11:23.808Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -76,15 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\EnumException\\EnumException\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\EnumException\\Program.cs",
               "RelativeDocumentMoniker": "EnumException\\Program.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\EnumException\\EnumException\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\ExceptionEnumTask\\EnumException\\EnumException\\Program.cs",
               "RelativeToolTip": "EnumException\\Program.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAkwFkAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T10:38:43.382Z"
+              "WhenOpened": "2024-04-11T10:38:43.382Z",
+              "EditorCaption": ""
             }
           ]
         }
